@@ -2,5 +2,7 @@
   "name": "דוח בדיקת גנרטור - שער הגולן",
   "description": "טופס דוח בדיקת גנרטור אינטראקטיבי מלא - סגל אריאל הנדסת חשמל בע״מ",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
